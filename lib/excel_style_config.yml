@@ -1,13 +1,12 @@
 header:
   b: true
-  color: "#000000"
   sz: 14
-  bg_color: "#2E75B5"
+  bg_color: "2E75B5"
   border:
     style: "thin"
-    color: "#000000"
+    color: "000000"
 body:
   sz: 12
   border:
     style: "thin"
-    color: "#000000"
+    color: "000000"

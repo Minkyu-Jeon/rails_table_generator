@@ -9,7 +9,11 @@ Gem::Specification.new do |spec|
   spec.authors       = ["minkyu-jeon"]
   spec.email         = ["minkyu@huray.net"]
   spec.summary       = %q{Database Schema docs generator for Ruby on Rails.}
-  spec.description   = %q{}
+  spec.description   = %q{
+    앞으로 할일.
+    1. gem을 사용하는 rails application내 설정파일을 통해 시트 스타일 설정 가능 추가
+    2. 엑셀 시트를 각 테이블마다가 아닌 그룹을 설정해서 한 시트 내에 여러 테이블을 묶을 수 있는 기능 추가
+  }
   # spec.homepage      = "."
   spec.license       = "MIT"
 
